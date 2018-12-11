@@ -34,6 +34,7 @@ PLATFORMS
 
 DEPENDENCIES
   awesome_print
+  parallel
   pry
   pry-doc
   rubocop
